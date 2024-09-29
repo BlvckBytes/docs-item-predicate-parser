@@ -23,7 +23,7 @@ This predicate matches on how much the item has been used, not how much use is l
 Input: deterioration\
 Result: All items which can experience deterioration
 
-Input: deterioration 0\
+Input: deterioration * 0\
 Result: Only completely unused items
 
 Input: deterioration 30\

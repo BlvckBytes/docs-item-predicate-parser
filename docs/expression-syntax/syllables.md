@@ -71,6 +71,6 @@ Remaining Target 2: Bamboo-ing\
 ~~Remaining Query Target 1:~~\
 Remaining Query Target 2: !hang\
 Matched Target 1: ✅\
-Matched Target 2: ❌\
+Matched Target 2: ❌
 
 Negation becomes highly useful when constructing custom material-groups, as discussed on the corresponding [predicate page](material-predicate.md).
