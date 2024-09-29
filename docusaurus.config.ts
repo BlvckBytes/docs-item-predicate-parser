@@ -17,7 +17,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'blvckbytes', // Usually your GitHub org/user name.
-  projectName: 'ItemPredicateParser', // Usually your repo name.
+  projectName: 'docs-item-predicate-parser', // Usually your repo name.
   deploymentBranch: 'deployment',
 
   onBrokenLinks: 'throw',
