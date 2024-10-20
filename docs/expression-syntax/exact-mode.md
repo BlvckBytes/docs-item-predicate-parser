@@ -13,6 +13,7 @@ Exact mode is not a predicate by itself, but rather an operator which can be pre
 | de_de | exakt |
 | de_at | exakt |
 | de_ch | exakt |
+| zh_cn | 精确 |
 
 ## Examples
 

@@ -13,6 +13,7 @@ The negation operator flips the result of it's applied-to expression, and thereb
 | de_de | nicht |
 | de_at | nicht |
 | de_ch | nicht |
+| zh_cn | 不是 |
 
 ## Examples
 

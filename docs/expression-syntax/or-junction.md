@@ -13,6 +13,7 @@ The or junction results in a match if **either** it's left- or it's right-hand-s
 | de_de | oder |
 | de_at | oder |
 | de_ch | oder |
+| zh_cn | 或 |
 
 ## Examples
 

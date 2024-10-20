@@ -17,6 +17,7 @@ This predicate matches on how much the item has been used, not how much use is l
 | de_de | Abnutzung |
 | de_at | Abnutzung |
 | de_ch | Abnutzung |
+| zh_cn | 恶化 |
 
 ## Examples
 

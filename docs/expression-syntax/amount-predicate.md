@@ -13,6 +13,7 @@ The amount predicate matches against the stack-size of an item and takes one arg
 | de_de | Anzahl |
 | de_at | Anzahl |
 | de_ch | Anzahl |
+| zh_cn | 数量 |
 
 ## Examples
 
