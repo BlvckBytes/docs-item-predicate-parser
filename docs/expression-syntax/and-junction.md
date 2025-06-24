@@ -15,6 +15,7 @@ The and junction results in a match if **both** it's left- **and** it's right-ha
 | de_ch | und |
 | zh_cn | 和 |
 | tr_tr | ve |
+| fr_fr | et |
 
 ## Examples
 

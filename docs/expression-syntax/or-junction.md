@@ -15,6 +15,7 @@ The or junction results in a match if **either** it's left- or it's right-hand-s
 | de_ch | oder |
 | zh_cn | 或 |
 | tr_tr | veya |
+| fr_fr | ou |
 
 ## Examples
 

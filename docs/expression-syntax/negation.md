@@ -15,6 +15,7 @@ The negation operator flips the result of it's applied-to expression, and thereb
 | de_ch | nicht |
 | zh_cn | 不是 |
 | tr_tr | hayır |
+| fr_fr | non |
 
 ## Examples
 
