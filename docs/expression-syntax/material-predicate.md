@@ -21,3 +21,8 @@ Matches: signs (all wood-types)
 
 Query: music-disc-?\
 Matches: all various music discs
+
+The questionmark-wildcard `?` will disregard exact matches; in order to also include them, use the asterisk-wildcard, `*`, as follows:
+
+Query: glass-*\
+Matches: **glass**, stained glass, glass panes, stained glass panes, glass bottles, etc.
