@@ -8,6 +8,8 @@ The text-search predicate scans through various text-based properties of an item
 
 When matching text, queries and targets are split up into syllables based on spaces, and the algorithm as described for [syllables](syllables.md) applies again. If all query syllables found a match, the test is considered successful.
 
+If it is not desired for all query-syllables to be contained across all aforementioned possible slots of an item, but within one single slot all at once, prepend the predicate with the [Exact-Operator](./exact-mode.md).
+
 Examples:
 
 Target: a string containing **hello** and **world**\

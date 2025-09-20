@@ -4,7 +4,11 @@ sidebar_position: 11
 
 # Exact Mode
 
-Exact mode is not a predicate by itself, but rather an operator which can be prepended to any other expression. Once entered, **all** enchantments and potion-effects need to be matched against by the contained predicates; each predicate removes it's match from the respective list, and at the end, the lists have to be empty for the whole exact expression to be considered a match. While, for simple expressions, prepending a single predicate may suffice, complex expressions can be prepended by making use of [parentheses](parentheses.md), since this operator is evaluated *before* various logical junctions.
+Exact mode is not a predicate by itself, but rather an operator which can be prepended to any other expression. Once entered, **all** enchantments and potion-effects need to be matched against by the contained predicates; each predicate removes it's match from the respective list, and at the end, the lists have to be empty for the whole exact expression to be considered a match.
+
+As for [Text-Search](./text-search-predicate.md), exact-mode causes all query-syllables to have to be contained within a single slot (name, lore, author, etc.) all at once to be considered a match.
+
+While, for simple expressions, prepending a single predicate may suffice, complex expressions can be prepended by making use of [parentheses](parentheses.md), since this operator is evaluated *before* various logical junctions.
 
 | Language | Identifier |
 |:--------:|:----------:|
