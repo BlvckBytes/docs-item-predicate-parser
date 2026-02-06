@@ -42,6 +42,11 @@ Result: All items which contain at least one item of stone in their inner invent
 Behaves exactly like the `Inner-Some` predicate but also allows the item itself to match the operand,
 which prevents having to specify the inner predicate twice if one seeks to match both versions.
 
+### Examples
+
+Input: inner-some-or-self Stone\
+Result: All items which contain at least one item of stone in their inner inventory, or stone itself
+
 ## Inner-All Predicate
 
 All of the items within the item's inventory need to match for the predicate to be satisfied.
@@ -72,3 +77,8 @@ Result: All items whose inventories are made up of either vacant slots or slots 
 
 Behaves exactly like the `Inner-All` predicate but also allows the item itself to match the operand,
 which prevents having to specify the inner predicate twice if one seeks to match both versions.
+
+### Examples
+
+Input: inner-all-or-self Stone\
+Result: All items which have all slots in their inner inventory occupied by stone, or stone itself
