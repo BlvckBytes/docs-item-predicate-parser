@@ -27,6 +27,9 @@ variables:
       # Languages only have to start with the key, as to set multiple countries at once
       # In this case: DE, AT and CH
       GERMAN: Kompostierbare-Items
+    # List of materials to block from being inherited via this variable's parents
+    blockedMaterials:
+    - BAMBOO
     # List of materials, where one of them has to match for the variable to match
     materials:
     - BEETROOT_SEEDS
